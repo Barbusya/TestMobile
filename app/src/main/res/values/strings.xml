@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Test Mobile</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="first_name_hint">Firast name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="email_hint">Email</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="already_log_in">Log in</string>
 </resources>

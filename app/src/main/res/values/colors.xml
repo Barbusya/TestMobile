@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="button_in">#4E55D7</color>
+    <color name="button_log_in">#254FE6</color>
+    <color name="tv_sign_in">#161826</color>
 </resources>
