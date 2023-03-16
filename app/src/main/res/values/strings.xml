@@ -7,4 +7,6 @@
     <string name="email_hint">Email</string>
     <string name="already_have">Already have an account?</string>
     <string name="already_log_in">Log in</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_apple">Sign in with Apple</string>
 </resources>
