@@ -4,5 +4,5 @@
     android:id="@+id/main_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:name="com.bbbrrr8877.efficientperson.habits.presentation.habitlist.HabitListFragment"
+    android:name="com.bbbrrr8877.testmobile.presentation.SignInFragment"
     tools:layout="@layout/fragment_sign_in" />
